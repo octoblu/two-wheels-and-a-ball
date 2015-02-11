@@ -1,0 +1,34 @@
+{
+  "name": "two-wheels-and-a-ball",
+  "version": "1.0.0",
+  "description": "Library for converting bearing and velocity instructions into Sumo Bot instructions",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octoblu/two-wheels-and-a-ball.git"
+  },
+  "keywords": [
+    "math",
+    "sumo",
+    "wheels"
+  ],
+  "author": "Octoblu Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/two-wheels-and-a-ball/issues"
+  },
+  "homepage": "https://github.com/octoblu/two-wheels-and-a-ball",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "coffee-script": "^1.9.0",
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0"
+  },
+  "dependencies": {
+    "coffee-script": "^1.9.0"
+  }
+}
